@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reloj Checador
 
 Aplicación de control de asistencia con Laravel 12, Blade y Bootstrap. El sistema usa roles nativos (`root`, `admin`, `worker`) y no depende de la hora del navegador para registrar asistencia.
@@ -55,3 +56,7 @@ El usuario se redirige al panel de su rol al iniciar sesión. Las rutas comprueb
 ```powershell
 php artisan test
 ```
+=======
+# sistema_checador
+Es una app de sistema checador en laravel  y php (php 8.4.27)
+>>>>>>> df77b35161497df0ae729115fa40543b21a4b1d9
